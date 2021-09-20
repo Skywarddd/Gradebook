@@ -1,3 +1,2 @@
-# congenial-potato gradebook
+gradebook
 
-This is a test, but idk what I'm doing :D
